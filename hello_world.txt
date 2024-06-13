@@ -1,3 +1,4 @@
 'Some Words Here'
 'making second changes'
 'Revision'
+'trying new line git commit'
